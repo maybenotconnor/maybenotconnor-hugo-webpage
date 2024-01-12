@@ -1,0 +1,1 @@
+‎ {{< list title="Featured" cardView=true limit=3 where="Type" value="featured" >}}
