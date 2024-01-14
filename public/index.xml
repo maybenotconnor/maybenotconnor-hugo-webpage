@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://maybenotconnor.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Connor Chute 2024</copyright>
+    <atom:link href="https://maybenotconnor.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Films</title>
+      <link>https://maybenotconnor.com/films/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maybenotconnor.com/films/</guid>
+      <description>Written and Directed by Connor Chute  Fanta Clown  #   Fanta Clown was Jordan&amp;rsquo;s 22nd birthday video.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maybenotconnor.com/films/featured_films.jpg" />
+    </item>
+    
+    <item>
+      <title>Jan the Forester</title>
+      <link>https://maybenotconnor.com/jan-the-forester/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maybenotconnor.com/jan-the-forester/</guid>
+      <description>A sort-of blog about my project 2007 Subaru Forester  ‎ ‎</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maybenotconnor.com/jan-the-forester/featured_jan.jpg" />
+    </item>
+    
+    <item>
+      <title>Mystcraft for Minecraft</title>
+      <link>https://maybenotconnor.com/mystcraft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maybenotconnor.com/mystcraft/</guid>
+      <description>Mystcraft Data Pack at Planet Minecraft by MaybeNotConnor</description>
+      
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://maybenotconnor.com/photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maybenotconnor.com/photos/</guid>
+      <description>document.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maybenotconnor.com/photos/featured_photos.jpg" />
+    </item>
+    
+  </channel>
+</rss>
