@@ -6,15 +6,15 @@ type: featured
 *Written and Directed by Connor Chute*
 {{< /lead >}}
 ## Fanta Clown
-Fanta Clown was Jordan's 22nd birthday video. From idea to upload in less than 8 hours, there are compromises on quality though none on humor. It was produced soley by Connor and Rebecca Ristow.
+Fanta Clown was Jordan's 22nd birthday video. From idea to upload in less than 8 hours, there are compromises on quality, though none on humor. It was produced soley by Connor and Rebecca Ristow.
 {{< youtube cZMT6IiURb0>}}
 
 ## John's 50th Birthday Video
-John's 50th Birthday Video was written and directed by Jordan Madaus, his first experience in having final cut priviledge a film. Filmed and edited by Connor Chute, the duo created the film while the rest of the typical crew was in quarantine with Covid-19. The film was created to celebrate the 50th birthday oh John Madaus, his father, in an improvised Avengers: Endgame parody.
+John's 50th Birthday Video was written and directed by Jordan Madaus, his first experience in having final cut priviledge on a film. Filmed and edited by Connor Chute, the duo created the film while the rest of the typical crew was in quarantine with Covid-19. The film was created to celebrate the 50th birthday of John Madaus, his father, in an improvised Avengers: Endgame parody.
 {{< youtube C0t2rnFYZTo>}}
 
 ## Bad to Bratwurst
-Bad to Bratwurst was produced for the 2022 ECSU 48 Hour Film Festival, Connor's last. The film was made with the largest team of 8 people, making for a large cast. The silly nature is controversial, but elicited a humorous reaction from many. Bad to Bratwurst won best editing and best overall.
+Bad to Bratwurst was produced for the 2022 ECSU 48 Hour Film Festival, Connor's last. The film was made with the largest team of 8 people. The silly nature is controversial, but elicited a humorous reaction from many. Bad to Bratwurst won best editing and best overall.
 {{< youtube tla1HOKxk6c>}}
 
 ## Later, Maybe 
@@ -25,8 +25,8 @@ Later, Maybe was the first longer form, dialogue-heavy film Connor had made. Wit
 A Killer Hand was a warm-up project for a few more films to be made. It is a parody of Casino Royale. There was no script, and the film has many technical flaws as well. The final product is amusing and was a fun experience for all involved.
 {{< youtube OO6NhxRB1qI>}}
 
-## Hapier Home
-Happier Home was Connor's final project for his only filmmaking class, produced almost entirely alone. The prompt was a character attempting to make a change in their life without any dialogue. Production was done over a weekend and the script was written in a day.
+## Happier Home
+Happier Home was Connor's final project for his only filmmaking class in college, produced entirely alone. The prompt was a character attempting to make a change in their life without any dialogue. Production was done over a weekend and the script was written in a day.
 {{< youtube _OJftCRZ-uo>}}
 
 ## Slim Jim
@@ -46,7 +46,7 @@ Spotted Red Suits is a short scene Connor put together after finally watching Th
 {{< youtube --19F0Q2akY>}}
 
 ## Matrimony & Keys
-Matrimony & Keys is a silly film that was written and produced from start to finish all in 48 hours. It was for Eastern's first annual 48 Hour Film Festival, which required that it used the prop of an umbrella, the character of a gym junkie, and the line "It takes two to tango." Matrimony & Keys won Best Film overall.
+Matrimony & Keys is a silly film that was written and produced from start to finish all in 48 hours. It was for Eastern's first annual 48 Hour Film Festival, which required that it used the prop of an umbrella, the character of a gym junkie, and the line "It takes two to tango." Matrimony & Keys won Best Film Overall.
 {{< youtube ojQ_gq-jvZ4>}}
 
 ## Atsumori
@@ -54,19 +54,19 @@ Atsumori is a historical piece representing a modern adaptation of the Japanese 
 {{< youtube kKP1qpXhgwc>}}
 
 ## BUSTED 
-BUSTED is Connor's high school senior capstone. It depicts two high school boys getting lost in the woods on the run from the law. It had the largest budget of all films on this page. BUSTED was entered in the annual HK spring film festival in 2019, in which it won 3rd place.
+BUSTED is Connor's high school senior capstone. It depicts two high school boys getting lost in the woods on the run from the law. It had the largest budget of all films up to this point. BUSTED was entered in the annual HK spring film festival in 2019, in which it won 3rd place.
 {{< youtube 387DvY1Chz8>}}
 
 ## One Step at a Time
-One Step at a Time was produced in Seattle, Washington as part of The Student Television Network Convention's Crazy 8 Short Film challenge. This was produced with a crew of about 12 members in less than 8 hours. The film is far from finished, but goes to show what is possible in such a short amount of time.
+One Step at a Time was produced in Seattle, Washington as part of The Student Television Network Convention's Crazy 8 Short Film challenge. This was produced with a crew of about 12 members in less than 8 hours. The film is far from finished, but goes to show what is possible in such a short amount of time. The biggest takeaway from this project was to have less walking and more plot!
 {{< youtube VCtebqJhM6k>}}
 
 ## Watergate
-Watergate is a collaboration between two teams that had not previously worked together. This Connor-directed, group-written film was given the prompt of using "What If?", and includes a cameo with the high school principal. Watergate does not have an extended version, because some have said it appears to be a trailer for something more in the future.
+Watergate is a collaboration between two teams that had not previously worked together. This Connor-directed, group-written film was given the prompt of using "What If?", and includes a cameo with the high school principal. Watergate does not have an extended version, being stated because some have said it appears to be a trailer for something more in the future.
 {{< youtube BQ43oRscDvc>}}
 
 ## Second Chance
-Second Chance is one of the most creative films on this list. Produced for a midterm project, the film was rushed to be completed in the final stages. Risks were taken in this film and it is clearly imperfect, but looking past some of the faults results in an interesting take on the afterlife. It is loosely based on the TV show Lucifer, which Connor hasn't seen.
+Second Chance is one of the most creative films on this list. Produced for a midterm project, the film was rushed to be completed in the final stages. Risks were taken in this film and it is clearly imperfect, but looking past some of the faults results in an interesting take on the afterlife. It is loosely based on the TV show Lucifer, which Connor hadn't seen.
 {{< youtube ZxMYUqZUsnE>}}
 
 ## The Doodler
@@ -74,5 +74,5 @@ The Doodler is Connor's first large film project. This film tests usage of visua
 {{< youtube JQJMDTn8PS8>}}
 
 ## Because She's Mine
-Because She's Mine was produced for the Student Television Network Convention's 6 hour Silent Film competition. It the first film Connor directed and edited. The prompt was "I walk the line", and the film is a reference to the Johnny Cash song by the same name.
+Because She's Mine was produced for the Student Television Network Convention's 6 hour Silent Film competition. It the first publicly available film Connor directed and edited. The prompt was "I walk the line", and the film is a reference to the Johnny Cash song by the same name.
 {{< youtube zIFihRBCjhQ>}}
