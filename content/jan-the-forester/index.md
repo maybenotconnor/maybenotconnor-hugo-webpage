@@ -93,9 +93,9 @@ Just a few hours in we realized that it would not be possible to make it to Utah
 
 This trip was the last for Jan. I began searching for a new car once we returned, and settled on a Volkswagen Tiguan.
 ![A 2007 Subaru Forester](44.jpg)
-On December 30th, 2023, I sold Jan for $2,000. In the last few months of ownership, an exhaust leak and a steering misalignment developed. And with the new VW, I ran out of space to store it. She was at 180,000 miles.
+On December 30th, 2023, I sold Jan for $2,000. In the last few months of ownership, an exhaust leak and a steering misalignment developed. And with the new VW, I ran out of space to store it. She was at 180,000 miles. 
 
 It was sad to see her go. I loved that car, and the memories made in it will remain with me forever.
 
-{{< video src="JanSplash" >}}
-{{< video src="JanHill" >}}
+{{< video src="JanSplash.webm" >}}
+{{< video src="JanHill.webm" >}}

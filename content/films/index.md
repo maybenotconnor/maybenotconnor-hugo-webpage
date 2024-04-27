@@ -5,12 +5,15 @@ type: featured
 {{< lead >}}
 *Written and Directed by Connor Chute*
 {{< /lead >}}
+## Spring Cling
+Spring Cling was Connor's self-defined university capstone (He did not study film!). Written and directed all in the final six months of university, it took the following two years to edit. The feature-length film follows Becca, a soon-to-be college graduate, navigating important decisions in her future career and love life.
+
 ## Fanta Clown
 Fanta Clown was Jordan's 22nd birthday video. From idea to upload in less than 8 hours, there are compromises on quality though none on humor. It was produced soley by Connor and Rebecca Ristow.
 {{< youtube cZMT6IiURb0>}}
 
 ## John's 50th Birthday Video
-John's 50th Birthday Video was written and directed by Jordan Madaus, his first experience in having final cut priviledge a film. Filmed and edited by Connor Chute, the duo created the film while the rest of the typical crew was in quarantine with Covid-19. The film was created to celebrate the 50th birthday oh John Madaus, his father, in an improvised Avengers: Endgame parody.
+John's 50th Birthday Video was written and directed by Jordan Madaus, his first experience in having final cut priviledge a film. Filmed and edited by Connor Chute, the duo created the film while the rest of the typical crew was in quarantine with Covid-19. The film was created to celebrate the 50th birthday of John Madaus, his father, in an improvised Avengers: Endgame parody.
 {{< youtube C0t2rnFYZTo>}}
 
 ## Bad to Bratwurst
@@ -25,7 +28,7 @@ Later, Maybe was the first longer form, dialogue-heavy film Connor had made. Wit
 A Killer Hand was a warm-up project for a few more films to be made. It is a parody of Casino Royale. There was no script, and the film has many technical flaws as well. The final product is amusing and was a fun experience for all involved.
 {{< youtube OO6NhxRB1qI>}}
 
-## Hapier Home
+## Happier Home
 Happier Home was Connor's final project for his only filmmaking class, produced almost entirely alone. The prompt was a character attempting to make a change in their life without any dialogue. Production was done over a weekend and the script was written in a day.
 {{< youtube _OJftCRZ-uo>}}
 
