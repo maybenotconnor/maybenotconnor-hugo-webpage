@@ -6,7 +6,8 @@ type: featured
 *Written and Directed by Connor Chute*
 {{< /lead >}}
 ## Spring Cling
-Spring Cling was Connor's self-defined university capstone (He did not study film!). Written and directed all in the final six months of university, it took the following two years to edit. The feature-length film follows Becca, a soon-to-be college graduate, navigating important decisions in her future career and love life.
+Spring Cling was Connor's self-defined university capstone (He did not study film). Written and directed all in the final six months of university, it took the following two years to edit. The feature-length film follows Becca, a soon-to-be college graduate, navigating decisions in her future career and love life.
+{{< youtube towtsnXgNDU>}}
 
 ## Fanta Clown
 Fanta Clown was Jordan's 22nd birthday video. From idea to upload in less than 8 hours, there are compromises on quality, though none on humor. It was produced soley by Connor and Rebecca Ristow.
@@ -29,11 +30,7 @@ A Killer Hand was a warm-up project for a few more films to be made. It is a par
 {{< youtube OO6NhxRB1qI>}}
 
 ## Happier Home
-<<<<<<< HEAD
 Happier Home was Connor's final project for his only filmmaking class, produced almost entirely alone. The prompt was a character attempting to make a change in their life without any dialogue. Production was done over a weekend and the script was written in a day.
-=======
-Happier Home was Connor's final project for his only filmmaking class in college, produced entirely alone. The prompt was a character attempting to make a change in their life without any dialogue. Production was done over a weekend and the script was written in a day.
->>>>>>> 3692bfe736678c687333ddcc956906061a99e4c3
 {{< youtube _OJftCRZ-uo>}}
 
 ## Slim Jim
