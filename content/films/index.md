@@ -6,7 +6,7 @@ type: featured
 *Written and Directed by Connor Chute*
 {{< /lead >}}
 ## Spring Cling
-Spring Cling was Connor's self-defined university capstone (He did not study film). Written and directed all in the final six months of university, it took the following two years to edit. The feature-length film follows Becca, a soon-to-be college graduate, navigating decisions in her future career and love life.
+Spring Cling was Connor's self-defined university capstone. The feature-length film follows Becca, a soon-to-be college graduate, struggling with her future-changing decisions in love and her career. Spring Cling was written and filmed all in Connor's last semester, and was edited and released two years later. Production was not supported by the university and entirely self-funded with a budget of $2,000.
 {{< youtube towtsnXgNDU>}}
 
 ## Fanta Clown
