@@ -5,6 +5,10 @@ type: featured
 {{< lead >}}
 *Written and Directed by Connor Chute*
 {{< /lead >}}
+## Harmony's House
+Harmony's House was produced for the 2024 New Haven 48 Hour Film Project. The required elements were the genre of Musical Drama, Jaden Starboard the Treasurer, an avocado, and the line "She left you a message." The film is about three siblings who inherit their grandmother's house but disagree on its fate. It was originally filmed in which the lines were sung, but the team made the difficult decision to use valuable time reshooting with spoken lines.
+{{< youtube 0wZpkSARYAM>}}
+
 ## Spring Cling
 Spring Cling was Connor's self-defined university capstone. The feature-length film follows Becca, a soon-to-be college graduate, struggling with her future-changing decisions in love and her career. Spring Cling was written and filmed all in Connor's last semester, and was edited and released two years later. Production was not supported by the university and entirely self-funded with a budget of $2,000.
 {{< youtube towtsnXgNDU>}}
