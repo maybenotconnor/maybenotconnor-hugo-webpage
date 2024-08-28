@@ -5,6 +5,10 @@ type: featured
 {{< lead >}}
 *Written and Directed by Connor Chute*
 {{< /lead >}}
+## Ride or Die
+Ride or Die was a result of the goal of two films released in the summer of 2024. David Hart wrote the film for Connor as a birthday present. The film is about two best friends reconnecting over an attempted carjacking. The picture car was totaled less than three days after the shoot.
+{{< youtube H0Fy0HeI5KI>}}
+
 ## Harmony's House
 Harmony's House was produced for the 2024 New Haven 48 Hour Film Project. The required elements were the genre of Musical Drama, Jaden Starboard the Treasurer, an avocado, and the line "She left you a message." The film is about three siblings who inherit their grandmother's house but disagree on its fate. It was originally filmed in which the lines were sung, but the team made the difficult decision to use valuable time reshooting with spoken lines.
 {{< youtube 0wZpkSARYAM>}}
