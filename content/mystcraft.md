@@ -8,6 +8,7 @@ layout: "simple"
 
 ‎
 
-Mystcraft is a Minecraft datapack Connor developed in 2021, adding teleportation books and 11 new dimensions all to vanilla minecraft using in-game commands.
+Mystcraft is a Minecraft datapack Connor initially developed in 2021, adding teleportation books and 11 new dimensions all to vanilla minecraft using in-game commands.
+Updates to the pack took an almost 4 year hiatus, finally being updated again in December 2024.
 
-Above are the links to the github repository and the planetminecraft page. The full pack is no longer updated, though an incomplete version is available on GitHub.
+Above are the links to the github repository and the planetminecraft page.

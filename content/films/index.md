@@ -5,6 +5,10 @@ type: featured
 {{< lead >}}
 *Written and Directed by Connor Chute*
 {{< /lead >}}
+## Jordan's 23rd Birthday Video
+Jordan's 23rd Birthday Video was the sequel to John's 50th(+2) Birthday Video. It begins two years in the future, focused on Connor. From a production perspective, it was an experiment into non-linear storytelling. And of course, was a surprise for Jordan's 23rd Birthday.
+{{< youtube WPcs1qd3DS0>}}
+
 ## Ride or Die
 Ride or Die was a result of the goal of two films released in the summer of 2024. David Hart wrote the film for Connor as a birthday present. The film is about two best friends reconnecting over an attempted carjacking. The picture car was totaled less than three days after the shoot.
 {{< youtube H0Fy0HeI5KI>}}
