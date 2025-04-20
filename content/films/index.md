@@ -3,7 +3,7 @@ title: "Films"
 type: featured
 ---
 {{< lead >}}
-*Written and Directed by Connor Chute*
+*Written and Directed by Connor Chute Marsley*
 {{< /lead >}}
 ## Jordan's 23rd Birthday Video
 Jordan's 23rd Birthday Video was the sequel to John's 50th(+2) Birthday Video. It begins two years in the future, focused on Connor. From a production perspective, it was an experiment into non-linear storytelling. And of course, was a surprise for Jordan's 23rd Birthday.
@@ -26,7 +26,7 @@ Fanta Clown was Jordan's 22nd birthday video. From idea to upload in less than 8
 {{< youtube cZMT6IiURb0>}}
 
 ## John's 50th Birthday Video
-John's 50th Birthday Video was written and directed by Jordan Madaus, his first experience in having final cut priviledge on a film. Filmed and edited by Connor Chute, the duo created the film while the rest of the typical crew was in quarantine with Covid-19. The film was created to celebrate the 50th birthday of John Madaus, his father, in an improvised Avengers: Endgame parody.
+John's 50th Birthday Video was written and directed by Jordan Madaus, his first experience in having final cut priviledge on a film. Filmed and edited by Connor, the duo created the film while the rest of the typical crew was in quarantine with Covid-19. The film was created to celebrate the 50th birthday of John Madaus, his father, in an improvised Avengers: Endgame parody.
 {{< youtube C0t2rnFYZTo>}}
 
 ## Bad to Bratwurst
